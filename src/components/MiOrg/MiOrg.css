@@ -1,0 +1,21 @@
+.orgSection {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.title {
+    border-bottom: 4px solid #6278F7;
+    color: #6278F7;
+    font-family: 'Prata';
+    font-size: 40px;
+    font-weight: 400;
+    padding-bottom: 24px;
+}
+
+.orgSection img {
+    cursor: pointer;
+    position: absolute;
+    right: 30%;
+}
